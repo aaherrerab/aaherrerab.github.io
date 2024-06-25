@@ -59,3 +59,12 @@ footer {
 footer p {
     margin: 0;
 }
+
+img {
+    width: 100%; /* Responsive width */
+    max-width: 300px; /* Maximum width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: makes the image round */
+    border: 3px solid #333; /* Optional: adds a border around the image */
+    margin-top: 20px; /* Optional: adds space above the image */
+}
