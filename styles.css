@@ -3,8 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #333;
-    background-color: #f4f4f4;
+    color: #fff; /* White text */
+    background-color: #1a1a1a; /* Dark background */
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #333; /* Slightly lighter dark header */
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
@@ -25,11 +25,15 @@ header h1 {
     padding: 20px 0;
 }
 
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
 section.intro p {
-    background-color: #fff;
+    background-color: #333; /* Dark background for paragraph */
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px #ccc;
 }
 
 nav ul {
@@ -43,7 +47,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #0779e4;
+    color: #0779e4; /* Keep link colors */
     text-decoration: none;
     font-weight: bold;
 }
@@ -52,7 +56,7 @@ footer {
     padding: 20px;
     margin-top: 20px;
     color: #fff;
-    background-color: #333;
+    background-color: #333; /* Dark footer */
     text-align: center;
 }
 
@@ -60,11 +64,13 @@ footer p {
     margin: 0;
 }
 
-img {
-    width: 100%; /* Responsive width */
-    max-width: 300px; /* Maximum width */
+img.profile {
+    width: 300px; /* Fixed width for the profile picture */
     height: auto; /* Maintain aspect ratio */
-    border-radius: 50%; /* Optional: makes the image round */
-    border: 3px solid #333; /* Optional: adds a border around the image */
-    margin-top: 20px; /* Optional: adds space above the image */
+    border-radius: 50%/30%; /* Circle shape */
+    border: 3px solid #333; /* Border color similar to dark background */
+    margin-top: 20px; /* Space above the image */
+    position: absolute; /* Positioned absolutely */
+    right: 10%; /* To the right */
+    top: 100px; /* Distance from top */
 }
