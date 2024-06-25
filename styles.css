@@ -21,7 +21,7 @@ header {
     color: #fff; /* Header text in white */
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #0779e4 3px solid; /* Blue border for a pop of color */
+    border-bottom: none; /* Blue border for a pop of color - #0779e4 3px solid */
 }
 
 header h1 {
