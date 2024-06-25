@@ -102,5 +102,6 @@ img.profile {
 /* Flexbox adjustments for text content */
 .text-content {
     flex: 1; /* Take up remaining space */
-}
+    background-color: #1a1a1a; /* Match the page background color */
+    color: #fff; /* Ensure text is white */
 }
