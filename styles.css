@@ -31,7 +31,7 @@ header h1 {
 /* Flex container for content and navigation */
 .content {
     display: flex;
-    justify-content: space-between;
+    align-items: flex-start; /* Align items to the start of the container */
     padding-bottom: 20px; /* Spacing at the bottom of the content */
 }
 
@@ -78,12 +78,15 @@ footer p {
 
 /* Profile image styling */
 img.profile {
-    width: 300px; /* Fixed width for the profile picture */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%/30%; /* Circle shape */
-    border: 3px solid #333; /* Border color similar to dark background */
-    margin-top: 20px; /* Space above the image */
-    position: absolute; /* Positioned absolutely */
-    right: 10%; /* To the right */
-    top: 100px; /* Distance from top */
+    width: 300px;
+    height: 200px;
+    border-radius: 50% / 30%; /* Oval shape */
+    border: 3px solid #333;
+    margin-top: 20px;
+    margin-right: 20px; /* Space between the image and text */
+}
+
+/* Flexbox adjustments for text content */
+.text-content {
+    flex: 1; /* Take up remaining space */
 }
