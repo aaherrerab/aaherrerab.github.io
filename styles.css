@@ -21,6 +21,7 @@ header {
     color: #fff; /* Header text in white */
     padding-top: 30px;
     min-height: 70px;
+    border-bottom: none; /* Remove the blue border */
 }
 
 header h1 {
@@ -32,19 +33,22 @@ header h1 {
     display: flex;
     align-items: flex-start; /* Align items to the start of the container */
     padding-bottom: 20px; /* Spacing at the bottom of the content */
+    background-color: #1a1a1a; /* Ensure content area has the same background color */
 }
 
 /* Introduction section */
 section.intro p {
-    background-color: #333; /* Dark background for paragraph */
+    background-color: #1a1a1a; /* Match the page background color */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px #222; /* Subtle shadow for depth */
+    color: #fff; /* Ensure text is white */
 }
 
 /* Navigation styles */
 nav {
     margin-top: 20px; /* Space above nav links */
+    background-color: #1a1a1a; /* Match the page background color */
 }
 
 nav ul {
@@ -67,7 +71,7 @@ nav ul li a {
 footer {
     padding: 20px;
     color: #fff; /* Footer text in white */
-    background-color: #333; /* Consistent dark footer */
+    background-color: #1a1a1a; /* Consistent dark footer */
     text-align: center;
 }
 
