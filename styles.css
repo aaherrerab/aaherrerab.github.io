@@ -1,39 +1,51 @@
+/* General body styles */
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #fff; /* White text */
-    background-color: #1a1a1a; /* Dark background */
+    color: #fff; /* All text in white */
+    background-color: #1a1a1a; /* Dark background for the whole page */
 }
 
+/* Container styles for centered content */
 .container {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
 
+/* Header styling */
 header {
     background: #333; /* Slightly lighter dark header */
-    color: #fff;
+    color: #fff; /* Header text in white */
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #0779e4 3px solid;
+    border-bottom: #0779e4 3px solid; /* Blue border for a pop of color */
 }
 
 header h1 {
     padding: 20px 0;
 }
 
+/* Flex container for content and navigation */
 .content {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 20px; /* Spacing at the bottom of the content */
 }
 
+/* Introduction section */
 section.intro p {
     background-color: #333; /* Dark background for paragraph */
     padding: 20px;
     border-radius: 8px;
+    box-shadow: 0 0 10px #222; /* Subtle shadow for depth */
+}
+
+/* Navigation styles */
+nav {
+    margin-top: 20px; /* Space above nav links */
 }
 
 nav ul {
@@ -47,16 +59,16 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #0779e4; /* Keep link colors */
+    color: #fff; /* Links in white for visibility */
     text-decoration: none;
     font-weight: bold;
 }
 
+/* Footer styles */
 footer {
     padding: 20px;
-    margin-top: 20px;
-    color: #fff;
-    background-color: #333; /* Dark footer */
+    color: #fff; /* Footer text in white */
+    background-color: #333; /* Consistent dark footer */
     text-align: center;
 }
 
@@ -64,6 +76,7 @@ footer p {
     margin: 0;
 }
 
+/* Profile image styling */
 img.profile {
     width: 300px; /* Fixed width for the profile picture */
     height: auto; /* Maintain aspect ratio */
