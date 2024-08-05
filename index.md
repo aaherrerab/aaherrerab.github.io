@@ -13,7 +13,7 @@ Contact me at a.herrera5@lse.ac.uk
 
 # My research
 ### Working papers
-##### The effects of transport infrastructure on housing supply: the role of land-use regulation. Co-authored with Kenzo Asahi and Hugo Silva.
+##### The effects of transport infrastructure on housing supply: the role of land-use regulation. Co-authored with Kenzo Asahi and Hugo Silva. [<p><a href="https://drive.google.com/file/d/19wSGwN1zMn6FsNmx-ywizWhpgS-asnY9/view" class="custom-link">Work in progress</a></p>]
 
 We study the impact of new transportation infrastructure on housing supply using historical and micro data from Santiago and exploiting instrumental variables. We find that subway and highway expansions increase residential floor space substantially, but when we account for land-use regulation, we see two contrasting dynamics in the city. In the wealthiest quintile, the effect is negligible for more than 95\% of the blocks due to their initial stringent regulation. However, in blocks in the first four quintiles of wealth, the impact on housing supply is substantial and homogeneous concerning the initial regulation. We provide evidence that the transport infrastructure triggers regulation to become more permissive everywhere but in the wealthiest neighborhoods. We quantify how land-use regulation limits housing supply, thus restraining welfare gains from transport infrastructure improvements.
 
