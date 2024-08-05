@@ -8,7 +8,7 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD student specializing in Urban 
 
 <p>This is my <a href="/assets/pdf/CV_ANDREA HERRERA (english).pdf" class="custom-link">CV</a>.</p> 
 
-<p>Contact me at <a href="mailto:a.herrera5@lse.ac.uk" class="custom-link">a.herrera5@lse.ac.uk</a></p>
+<p> My contact is a.herrera5@lse.ac.uk </p>
 
 # My research
 ## Working papers
