@@ -13,6 +13,7 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 # My research
 ## Working papers
 #### The Causal Effects of Height Regulations on Urban Development: Evidence from London’s Protected Vistas <span style="color:red;">[Working Paper - Coming soon!]</span>
+
 This paper examines the causal effects of height restrictions using London's Protected Views policy as a natural experiment. Unlike typical zoning laws, these restrictions are exogenously determined by historical sightlines rather than economic or political factors, overcoming boundary endogeneity concerns. Using a border discontinuity design, I find that height limits reduce built height at corridor boundaries, though property prices show no apparent discontinuity. This study advances urban regulation and zoning literature by providing causal estimates and new insights into the unintended consequences of height restrictions in high-demand cities. As a next step, I will develop a quantitative spatial model to assess the general equilibrium effects of these restrictions on prices and welfare. 
 
 
