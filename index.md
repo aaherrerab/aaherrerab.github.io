@@ -25,4 +25,3 @@ This paper investigates the drivers of land-use regulatory changes in Santiago, 
 
 ## Work in progress
 #### Welfare effects of local urban regulation on residential outcomes: Evidence for Santiago, Chile.
-
