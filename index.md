@@ -13,6 +13,7 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 # My research
 ## Working papers
 #### The Causal Effects of Height Regulations on Urban Development: Evidence from London’s Protected Vistas <span style="color:red;">[Working Paper - Coming soon!]</span>
+This paper examines the causal effects of height restrictions using London's Protected Views policy as a natural experiment. Unlike typical zoning laws, these restrictions are exogenously determined by historical sightlines rather than economic or political factors, overcoming boundary endogeneity concerns. Using a border discontinuity design, I find that height limits reduce built height at corridor boundaries, though property prices show no apparent discontinuity. This study advances urban regulation and zoning literature by providing causal estimates and new insights into the unintended consequences of height restrictions in high-demand cities. As a next step, I will develop a quantitative spatial model to assess the general equilibrium effects of these restrictions on prices and welfare. 
 
 
 #### The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. Co-authored with Kenzo Asahi and Hugo Silva. <a href="/assets/pdf/Asahi, Herrera, Silva (2024).pdf" class="custom-link">[Working Paper]</a>.
@@ -23,5 +24,5 @@ We study the impact of new transportation infrastructure on housing supply using
 
 This paper investigates the drivers of land-use regulatory changes in Santiago, Chile, over a 20-year period, focusing on downzoning (stricter regulations) and upzoning (more flexible regulations). Leveraging an original dataset covering 15 urban municipalities, we examine how neighborhood characteristics, including homeownership rates, income levels, and proximity to transportation networks—influence these zoning decisions. Our findings reveal that high-income neighborhoods are more likely to experience downzoning, especially where homeownership is less prevalent, reflecting a “social divide” in land-use policy. Contrary to expectations, high-density areas favor stricter regulations, while large-scale zoning changes dilute the influence of affluent residents, arguably due to competing interests such as those of the real estate industry. These results contribute to the debate between the “growth machine” theory, where real estate interests dominate, and the “homevoter” theory, where residents hold sway, suggesting that both frameworks may apply depending on the city’s level of social segmentation. Methodologically, we introduce a novel dataset of municipal land-use regulations, offering new insights into the political economy of urban development.
 
-## Work in progress
+
 #### Welfare effects of local urban regulation on residential outcomes: Evidence for Santiago, Chile.
