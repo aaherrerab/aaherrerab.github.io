@@ -13,7 +13,7 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 # My research
 ## Working papers
 
-#### The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. Co-authored with Kenzo Asahi and Hugo Silva. <a href="/assets/pdf/Asahi, Herrera, Silva (2024).pdf" class="custom-link">[Working Paper]</a>.
+#### The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. Co-authored with Kenzo Asahi and Hugo Silva. <a href="/assets/pdf/TREA.pdf" class="custom-link">[Working Paper]</a>.
 
 We study the impact of new transportation infrastructure on housing supply using historical and micro data from Santiago and exploiting instrumental variables. We find that subway and highway expansions increase residential floor space substantially, but when we account for land-use regulation, we see two contrasting dynamics in the city. In the wealthiest quintile, the effect is negligible for more than 95% of the blocks due to their initial stringent regulation. However, in blocks in the first four quintiles of wealth, the impact on housing supply is substantial and homogeneous concerning the initial regulation. We provide evidence that the transport infrastructure triggers regulation to become more permissive everywhere but in the wealthiest neighborhoods. We quantify how land-use regulation limits housing supply, thus restraining welfare gains from transport infrastructure improvements.
 
