@@ -18,7 +18,8 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 
 </h4>
 
-<p style="margin:.25rem 0;"> *Best Student Paper at the 2025 Urban Economics Association North American Meeting.*
+<p style="margin:.25rem 0;"> 
+*Best Student Paper at the 2025 Urban Economics Association North American Meeting.*
 
 <details class="abstract" style="margin:.25rem 0 1.25rem 0;">
   <summary style="margin:0;">Abstract</summary>
