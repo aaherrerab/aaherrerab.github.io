@@ -15,7 +15,7 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 
 #### Regulating the Skyline: Evidence from London’s Protected Vistas.  <a href="/assets/pdf/london_pv_aaherrerab_jmp.pdf" class="custom-link">[JMP]</a>
 
-*Best Student Paper at the 2025 Urban Economics Association North American Meeting.*
+<em><small>Best Student Paper at the 2025 Urban Economics Association North American Meeting.</small></em>
 
 <details class="abstract">
   <summary>Abstract</summary>
