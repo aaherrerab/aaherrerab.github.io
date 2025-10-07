@@ -13,8 +13,8 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 # My research
 ## Working papers
   
-#### Regulating the Skyline: Evidence from London’s Protected Vistas.  <a href="/assets/pdf/london_pv_aaherrerab_jmp.pdf" class="custom-link">[JMP]</a> 
-*Best Student Paper at the 2025 Urban Economics Association North American Meeting.*
+#### Regulating the Skyline: Evidence from London’s Protected Vistas.  <a href="/assets/pdf/london_pv_aaherrerab_jmp.pdf" class="custom-link">[JMP]</a> {: style="margin:0 0 .2rem 0; line-height:1.25;"}
+*Best Student Paper at the 2025 Urban Economics Association North American Meeting.*{: style="display:block; margin:.15rem 0; font-size:.95em;"}
 <details class="abstract" style="margin:.25rem 0 1.25rem 0;">
   <summary style="margin:0;">Abstract</summary>
   <p>Using London’s Protected Vistas policy as a natural experiment, this paper examines how height restrictions affect building heights, property prices and welfare in the city. The policy’s sightline-based boundaries reduce the typical boundary endogeneity concerns. A border discontinuity design reveals that while average heights are unchanged, buildings over 18 meters within Protected Vistas are about 6% shorter, especially in areas with stricter limits. Post-WWII and commercial buildings are most affected, while residential and pre-WWII structures are not. Property prices within Vistas are 2.6% higher. A spatial model suggests lifting restrictions would shift local development toward commercial use, increase local employment, and raise aggregate welfare by 0.2%.</p>
