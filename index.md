@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<style>
-/* only touch your abstract toggles on this page */
-details.abstract summary { list-style: none; cursor: pointer; }
-details.abstract summary::-webkit-details-marker { display: none; } /* Chrome/Safari */
-details.abstract summary::before {
-  content: "•";
-  display: inline-block;
-  margin-right: .4rem;
-  opacity: .6;
-}
-</style>
-
-
 # About me
 
 Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specialising in Urban Economics. I am studying the effects of urban planning and transport infrastructure on housing outcomes and the spatial distribution of economic activity and people using Quantitative Spatial Models. I am also interested in learning about the spatial determinants of intergenerational mobility, spatial inequalities, environmental issues, and gender inequalities.
