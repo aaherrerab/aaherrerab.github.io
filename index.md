@@ -33,4 +33,6 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specialising in Urba
 </p>
 </details>
 
-#### Welfare effects of local urban regulation on residential outcomes: Evidence for Santiago, Chile. <span style="font-weight:400; color:#000; text-decoration:none;"> Co-authored with Hugo Silva.</span>
+#### Welfare Effects of Local Urban Regulation on Residential Outcomes: Evidence for Santiago, Chile.<span style="color:inherit !important; font-weight:400; text-decoration:none;"> Co-authored with <a href="https://sites.google.com/site/hugosilvam/home?authuser=0"
+       target="_blank" rel="noopener"
+       style="color:inherit !important; font-weight:600; text-decoration:none;"> Hugo Silva. </a></span>
