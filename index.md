@@ -22,12 +22,12 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 </details>
 
 <h4 style="margin:0 0 .2rem 0; line-height:1.25;">
-  The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. Co-authored with Hugo Silva and Kenzo Asahi.
-  <a href="/assets/pdf/TREA.pdf" class="custom-link">[Working Paper]</a>
+  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. Co-authored with Hugo Silva and Kenzo Asahi (submitted).</a>
 </h4>
 <details class="abstract" style="margin:.1rem 0 1.1rem 0;">
   <summary style="margin:0;">Abstract</summary>
-  <p>We study the impact of new transportation infrastructure on housing supply using historical and micro data from Santiago and exploiting instrumental variables. We find that subway and highway expansions increase residential floor space substantially, but when we account for land-use regulation, we see two contrasting dynamics in the city. In the wealthiest quintile, the effect is negligible for more than 95% of the blocks due to their initial stringent regulation. However, in blocks in the first four quintiles of wealth, the impact on housing supply is substantial and homogeneous concerning the initial regulation. We provide evidence that the transport infrastructure triggers regulation to become more permissive everywhere but in the wealthiest neighborhoods. We quantify how land-use regulation limits housing supply, thus restraining welfare gains from transport infrastructure improvements.</p>
+  <p>We estimate the impact of new transportation infrastructure on Santiago's housing market using historical microdata and instrumental variables. While subway and highway expansions generally boost residential floor space, housing units, and prices, the aggregate impact masks a heterogeneity driven by land-use regulations. In the wealthiest 20% of the city, highly restrictive regulations, such as low maximum Floor Area Ratios (FAR), effectively limit the impact on multi-family development. Conversely, in the remaining 80% of blocks, the zoning is more permissive, and the infrastructure investment leads to a substantial and homogeneous increase in residential floor space and housing units. These findings suggest that zoning in affluent areas prevents the densification that would otherwise follow major public investments, limiting the city's overall housing growth.
+</p>
 </details>
 
 #### Welfare effects of local urban regulation on residential outcomes: Evidence for Santiago, Chile. Co-authored with Hugo Silva.
