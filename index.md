@@ -22,7 +22,7 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 </details>
 
 <h4 style="margin:0 0 .2rem 0; line-height:1.25;">
-  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. </a> Co-authored with Hugo Silva and Kenzo Asahi (<p style="margin:.12rem 0; font-size:.95em;"><em>submitted</em></p>).
+  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. </a> Co-authored with Hugo Silva and Kenzo Asahi (submitted).
 </h4>
 <details class="abstract" style="margin:.1rem 0 1.1rem 0;">
   <summary style="margin:0;">Abstract</summary>
