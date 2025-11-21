@@ -10,8 +10,8 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 
 <p> Contact me at <a href="mailto:a.herrera5@lse.ac.uk" class="custom-link">a.herrera5@lse.ac.uk</a> </p>
 
-# My research
-## Working papers
+
+# Research
 <h4 style="margin:0 0 .2rem 0; line-height:1.25;">
   <a href="/assets/pdf/london_pv_aaherrerab_jmp.pdf" class="custom-link">Regulating the Skyline: Evidence from London's Protected Vistas.</a>
 </h4>
