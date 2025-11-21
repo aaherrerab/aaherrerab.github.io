@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urban Economics. I am studying the effects of urban planning and transport infrastructure on housing outcomes and the spatial distribution of economic activity and people using Quantitative Spatial Models. I am also interested in learning about the spatial determinants of intergenerational mobility, spatial inequalities, environmental issues, and gender inequalities.
+Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specialising in Urban Economics. I am studying the effects of urban planning and transport infrastructure on housing outcomes and the spatial distribution of economic activity and people using Quantitative Spatial Models. I am also interested in learning about the spatial determinants of intergenerational mobility, spatial inequalities, environmental issues, and gender inequalities.
 
 <p>This is my <a href="/assets/pdf/cv_aaherrerab.pdf" class="custom-link">CV</a>.</p> 
 
@@ -22,8 +22,9 @@ Hi, I'm Andrea Herrera, an Economic Geography PhD candidate specializing in Urba
 </details>
 
 <h4 style="margin:0 0 .2rem 0; line-height:1.25;">
-  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. </a> <span style="font-weight:400; color:#000; text-decoration:none;"> Co-authored with Hugo Silva and Kenzo Asahi (submitted).</span>
+  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. </a> <span style="font-weight:400; color:#000; text-decoration:none;"> Co-authored with Hugo Silva and Kenzo Asahi.</span>
 </h4>
+<p style="margin:.12rem 0; font-size:.95em;"><em>Submitted.</em></p>
 <details class="abstract" style="margin:.1rem 0 1.1rem 0;">
   <summary style="margin:0;">Abstract</summary>
   <p>We estimate the impact of new transportation infrastructure on Santiago's housing market using historical microdata and instrumental variables. While subway and highway expansions generally boost residential floor space, housing units, and prices, the aggregate impact masks a heterogeneity driven by land-use regulations. In the wealthiest 20% of the city, highly restrictive regulations, such as low maximum Floor Area Ratios (FAR), effectively limit the impact on multi-family development. Conversely, in the remaining 80% of blocks, the zoning is more permissive, and the infrastructure investment leads to a substantial and homogeneous increase in residential floor space and housing units. These findings suggest that zoning in affluent areas prevents the densification that would otherwise follow major public investments, limiting the city's overall housing growth.
