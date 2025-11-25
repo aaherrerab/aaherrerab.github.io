@@ -3,6 +3,17 @@
 
 @import "jekyll-theme-minimal";
 
-/* Remove the triangle on Abstract toggles */
+/* Remove the native triangle */
 details.abstract summary { list-style: none; cursor: pointer; }
 details.abstract summary::-webkit-details-marker { display: none; } /* Chrome/Safari */
+
+/* Add a small elegant dot */
+details.abstract summary::before {
+  content: "•";
+  display: inline-block;
+  margin-right: 0.4rem;   /* space between dot and text */
+  font-size: 0.9em;       /* slightly smaller than text */
+  line-height: 1;
+  opacity: 0.6;           /* soft, not shouty */
+}
+
