@@ -27,15 +27,21 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a></p>
-        {% endif %}
+        <div style="white-space:nowrap;">
+          {% if site.github.is_user_page %}
+            <p class="view" style="display:inline; margin:0;">
+              <a href="{{ site.github.owner_url }}">GitHub</a>
+            </p>
+          {% endif %}
+        
+          <p class="social" style="display:inline; margin:0;">
+            {% if site.github.is_user_page %}&nbsp;·&nbsp;{% endif %}
+            <a href="https://www.linkedin.com/in/andrea-herrera-b%C3%B3rquez-3020341a3" target="_blank" rel="me noopener">LinkedIn</a> ·
+            <a href="https://bsky.app/profile/aaherrerab.bsky.social" target="_blank" rel="me noopener">Bluesky</a> ·
+            <a href="https://x.com/AndreaHerreraBo" target="_blank" rel="me noopener">X</a>
+          </p>
+        </div>
 
-        <p class="social">
-        <a href="https://www.linkedin.com/in/andrea-herrera-b%C3%B3rquez-3020341a3" target="_blank" rel="me noopener">LinkedIn</a> ·
-        <a href="https://bsky.app/profile/aaherrerab.bsky.social" target="_blank" rel="me noopener">Bluesky</a> ·
-        <a href="https://x.com/AndreaHerreraBo" target="_blank" rel="me noopener">X</a>
-        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
