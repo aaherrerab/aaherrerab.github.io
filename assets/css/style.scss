@@ -2,3 +2,7 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Remove the triangle on Abstract toggles */
+details.abstract summary { list-style: none; cursor: pointer; }
+details.abstract summary::-webkit-details-marker { display: none; } /* Chrome/Safari */
