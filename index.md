@@ -22,7 +22,7 @@ I’m Andrea Herrera, a PhD candidate in Economic Geography at the London School
 </details>
 
 <h4 style="margin:0 0 .2rem 0; line-height:1.25;">
-  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. </a> <span style="color:inherit !important; font-weight:400; text-decoration:none;"> Co-authored with <a href="https://sites.google.com/site/hugosilvam/home?authuser=0"
+  <a href="/assets/pdf/TREA.pdf" class="custom-link">The Effects of Transport Infrastructure on Housing Supply: The Role of Land-Use Regulation. </a> <span style="color:inherit !important; font-weight:400; text-decoration:none;"> With <a href="https://sites.google.com/site/hugosilvam/home?authuser=0"
        target="_blank" rel="noopener"
        style="color:inherit !important; font-weight:600; text-decoration:none;"> Hugo Silva </a> and Kenzo Asahi.</span>
 </h4>
@@ -33,4 +33,4 @@ I’m Andrea Herrera, a PhD candidate in Economic Geography at the London School
 </p>
 </details>
 
-#### Welfare Effects of Local Urban Regulation on Residential Outcomes: Evidence for Santiago, Chile.<span style="color:inherit !important; font-weight:400; text-decoration:none;"> Co-authored with Hugo Silva.</span>
+#### Welfare Effects of Local Urban Regulation on Residential Outcomes: Evidence for Santiago, Chile.<span style="color:inherit !important; font-weight:400; text-decoration:none;"> With Hugo Silva.</span>
