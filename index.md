@@ -8,7 +8,7 @@ I’m Andrea Herrera, a PhD candidate in Economic Geography at the London School
 
 <p>This is my <span style="color:inherit !important; font-weight:600; text-decoration:none;"> <a href="/assets/pdf/cv_aaherrerab.pdf" class="custom-link">CV</a>. Contact me at <a href="mailto:a.herrera5@lse.ac.uk" class="custom-link">a.herrera5@lse.ac.uk</a> </span> </p> 
 
-<p> Contact me at <a href="mailto:a.herrera5@lse.ac.uk" class="custom-link">a.herrera5@lse.ac.uk</a> </p>
+<p> I co-organize the <span style="color:inherit !important; font-weight:600; text-decoration:none;"> <a href="https://osus.info/" class="custom-link">Online Spatial and Urban Seminar (OSUS)</a>. Check it out! </p>
 
 
 # Research
